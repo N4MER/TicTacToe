@@ -6,6 +6,5 @@ public class Button extends JButton {
     public Button(int  number) {
         this.number = number;
 
-
     }
 }
