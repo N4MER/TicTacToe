@@ -5,4 +5,7 @@ public class Player {
         this.symbol = symbol;
     }
 
+    public String getSymbol() {
+        return symbol;
+    }
 }
